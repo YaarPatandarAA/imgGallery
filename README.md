@@ -2,4 +2,4 @@
 A Simple Image Gallery using HTML/CSS and Bootstrap
 
 ## Finished WebPage
-<img src="screenCaps/fullGif.gif" width="100%">
+<img src="imgGallery_BS3/screenCaps/fullGif.gif" width="100%">
